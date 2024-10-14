@@ -1,0 +1,1 @@
+echo "web: python index.py" > Procfile
